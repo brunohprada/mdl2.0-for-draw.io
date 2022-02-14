@@ -2,7 +2,7 @@
 
 ## IMPORTANT WARNINGS
 
-- This is an alpha version.
+- This is an beta version.
 - Official documentation not yet available
 - Some component descriptions may be wrong or not available.
 
